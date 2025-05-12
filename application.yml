@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: test-app
+mensaje: Hola desde config-repo
+
